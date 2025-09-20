@@ -8,12 +8,8 @@ Mục tiêu của tôi là trở thành một lập trình viên
 - Đọc Sách
 - Học tập
 - Nghe Nhạc
+
 --- Kỷ Năng ---
 - Lâp trình PyThon
 - Thiết Kế CSDL với MySQL
 - Sử dụng Git cơ bản
---- Kế Hoạch Học Tập ---
-- Học Kỷ Năng này sẽ tập trung vào Cấu Trúc Dữ Liệu Và Giải Thuật
-- Hoàn thành khoá học ReactJs online trong 3 tháng.
-- Đọc xong cuốn sách Clean Code.
-- Thực hiện dự án cá nhân nhỏ và quản lý về kiến thức
