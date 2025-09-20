@@ -1,0 +1,6 @@
+--- Mo ta tinh nang A: Tim kiem san pham ---
+1. Them mot thanh tim kiem o dau trang chu.
+2. Nguoi dung co the nhap ten san pham de tim kiem.
+3. He thong se goi y cac ket qua phu hop khi nguoi dung dang go.
+4. Ket qua tim kiem se duoc hien thi o mot trang rieng.
+5. Trang ket qua se co chuc nang loc theo gia, danh muc san pham.
