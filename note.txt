@@ -1,0 +1,3 @@
+- Git ban đầu khá khó hiểu với nhiều lệnh.
+- Branching là một tính năng cực kỳ mạnh mẽ để phát triển song song.
+- GitHub giúp việc hợp tác và lưu trữ code trở nên dễ dàng.
