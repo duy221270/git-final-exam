@@ -1,0 +1,4 @@
+# Ví dụ nội dung:
+- This file was created directly on GitHub.
+- It demonstrates the web-based file creation feature.
+- This is the initial version.
