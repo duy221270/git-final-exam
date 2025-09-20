@@ -13,7 +13,13 @@
 - **Mục tiêu phụ:** Giải 5 bài toán trên LeetCode.
 - **Lưu ý:** Dành ít nhất 2 giờ mỗi ngày cho việc học.
 - **Kết quả mong muốn:** Nắm vững cách hoạt động của Git và có kiến thức cơ bản về Docker.
+<<<<<<< Updated upstream
 # Thêm hêm vào lần 1:
 - Review pull request của đồng nghiệp.
 - Cập nhật tài liệu API.
 - Họp team cuối tuần.
+=======
+# Thêm vào lần 2:
+- Sửa các bug ưu tiên cao.
+- Triển khai phiên bản mới lên server staging.
+>>>>>>> Stashed changes
