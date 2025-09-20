@@ -1,0 +1,15 @@
+--- Giới thiệu bản thân ---
+Xin chảo, tôi là Nguyễn Khánh Duy.
+Hiện tôi đang là sinh viên năm 4 tại Trường Đại Học Nam Cần Thơ.
+Chuyên nghành của tôi là Công Nghệ Thông Tin.
+Tôi rất thích lập trình.
+Mục tiêu của tôi là trở thành một lập trình viên
+--- Sở thích ---
+- Đọc Sách
+- Học tập
+- Nghe Nhạc
+
+--- Kỷ Năng ---
+- Lâp trình PyThon
+- Thiết Kế CSDL với MySQL
+- Sử dụng Git cơ bản
