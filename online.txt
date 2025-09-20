@@ -2,3 +2,6 @@
 - This file was created directly on GitHub.
 - It demonstrates the web-based file creation feature.
 - This is the initial version.
+# Ví dụ nội dung được thêm:
+- Now, this file is being updated locally.
+- The next step is to push this change back to GitHub.
