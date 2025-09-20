@@ -1,3 +1,4 @@
+Hello, this is <Nguyễn Khánh Duy>
 --- Giới thiệu bản thân ---
 Xin chảo, tôi là Nguyễn Khánh Duy.
 Hiện tôi đang là sinh viên năm 4 tại Trường Đại Học Nam Cần Thơ.
